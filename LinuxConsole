@@ -1,0 +1,96 @@
+#Berikut saya coba tuliskan beberapa perintah dasar yang ada di Linux.#
+
+cd
+fungsi: digunakan untuk berpindah ke direktori lain.
+
+
+chmod
+fungsi: digunakan untuk mengatur hak akses suatu file atau direktori
+
+
+clear
+fungsi: digunakan untuk membersihkan seluruh layar terminal
+
+cp
+fungsi: digunakan untuk menyalin sebuah file
+
+date
+fungsi: digunakan untuk menampilkan tanggal dan waktu
+
+
+halt
+fungsi: digunakan untuk mematikan sistem
+
+
+history
+fungsi: digunakan untuk melihat perintah apa saja yang telah digunakan
+
+
+ifconfig
+fungsi: digunakan untuk melihat informasi pada kartu jaringan, seperti IP address, Mac address, dan lain-lain.
+
+ls
+fungsi: digunakan untuk melihat isi dari suatu direktori
+
+mkdir
+fungsi: digunakan untuk membuat direktori baru.
+
+mv
+fungsi: untuk memindahkan file, bisa juga untuk merubah nama sebuah file.
+
+
+nano
+fungsi: digunakan untuk text editor
+
+passwd
+fungsi: digunakan untuk menggunakan password
+
+
+pwd
+fungsi: digunakan untuk menampilkan nama direktori dimana Anda sedang berada
+
+
+reboot
+fungsi: digunakan untuk menghidupkan ulang sistem/komputer
+
+restart
+fungsi: menjalankan ulang service yang sedang berjalan.
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+rm
+fungsi: digunakan untuk menghapus file.
+
+rmdir
+fungsi: digunakan untuk menghapus direktori
+
+
+shutdown
+fungsi: sama seperti halt, digunakan untuk mematikan sistem
+
+
+start
+fungsi: digunakan untuk menjalankan sebuah service.
+
+
+stop
+fungsi: digunakan untuk menghentikan sebuah service yang sedang berjalan
+
+
+sudo
+fungsi: menjalankan perintah sebagai root
+
+
+tar
+fungsi: digunakan untuk mengekstrak file dengan format *tar.gz *.tgz
+
+
+touch
+fungsi: digunakan untuk membuat file baru dalam keadaan kosong.
+
+
+unzip
+fungsi: digunakan untuk mengekstrak atau mengurai file yang dikompress dalam bentuk *.zip
+
+who
+fungsi: digunakan untuk melihat siapa saja yang sedang login
